@@ -63,7 +63,7 @@ I transform complex manual processes into reliable automated systems. Specialize
 
 *   **Telegram:** [@Cuth3r3](https://t.me/Cuth3r3)
 *   **Email:** m.chuvilev.adm1n@yandex.ru
-*   **Habr Career:** [Profile](https://career.habr.com/mchuvilevm)
+*   **Habr Career:** [Profile](https://career.habr.com/chuvilev_mm)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
