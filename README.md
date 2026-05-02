@@ -1,79 +1,72 @@
 <div align="center">
 
-# 🛠️ Чувилев М.М. / MChuvilevM
-### **System Engineer | DevOps & Infrastructure Automation**
+# 👋 Привет, я Чувилев М.М.
+### **System Engineer | DevOps & Automation Enthusiast**
 
-[![PowerShell Middle](https://img.shields.io/badge/PowerShell-Middle-blue?style=for-the-badge&logo=powershell)](https://career.habr.com/mchuvilevm)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![PowerShell Middle](https://img.shields.io/badge/PowerShell-Middle-336791?style=flat-square&logo=powershell&logoColor=white)](https://career.habr.com/chuvilev_mm)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://career.habr.com/chuvilev_mm)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://career.habr.com/chuvilev_mm)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://career.habr.com/chuvilev_mm)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://career.habr.com/chuvilev_mm)
 
 ---
 
-**«Если задача повторяется больше двух раз — она должна быть автоматизирована»**  
-*«If a task is repeated more than twice, it must be automated»*
+> *«Автоматизация — это не просто работа, это способ освободить время для созидания. Если процесс повторяется дважды, я пишу скрипт.»*
 
 </div>
 
-## 📖 Обо мне / About Me
+## 👨‍💻 Обо мне / About Me
 
-Я превращаю сложные ручные процессы в надежные автоматизированные системы. Специализируюсь на создании инструментов для прозрачного управления IT-инфраструктурой. 
+Я превращаю хаос ручных настроек в прозрачные автоматизированные системы. Мой подход — это сочетание инженерной точности и стремления к простоте использования. Специализируюсь на создании инструментов мониторинга и управления IT-инфраструктурой.
 
-I transform complex manual processes into reliable automated systems. Specialized in creating tools for transparent IT infrastructure management.
+*   🏆 **Сертифицированный специалист:** PowerShell Middle Level.
+*   🎓 **Образование:** Специальность 09.02.06 «Сетевое и системное администрирование», Петровский колледж (2022 — 2026).
+*   🛠 **Дипломный проект:** Проектирование инфраструктуры защищенного удаленного доступа.
 
 ---
 
-## 🏗️ Ключевые проекты / Featured Projects
+## 🚀 Ключевые проекты / Featured Projects
 
 ### 🛡️ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)** 
-**Enterprise-level Synology NAS monitoring.**  
-*   **Tech:** PowerShell (Async Runspaces), WinAPI, REST API.
-*   **Feature:** Глубокий мониторинг RAID и S.M.A.R.T. через API.
-*   **Status:** ⭐ **If you use it, please give it a star to support development!**
+**Мониторинг Synology NAS корпоративного уровня.**
+*   **Стек:** PowerShell (Async Runspaces), WinAPI, REST API.
+*   **Фишка:** Глубокий контроль RAID и здоровья дисков напрямую через API.
+*   ⭐ **Понравился проект? Поддержи его звездой — это лучшая мотивация для развития!**
 
 ### 📡 **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)** 
-**Mesh network monitoring system (TP-Link Deco).**  
-*   **Tech:** C#, WPF, Network Telemetry.
-*   **Feature:** Реальный контроль состояния узлов сети.
+**Система контроля Mesh-сетей (TP-Link Deco).**
+*   **Стек:** PowerShell, WPF, Network Telemetry.
+*   **Фишка:** Реальный мониторинг узлов сети в удобном GUI.
+*   ⭐ **Буду признателен за вашу поддержку в виде звезды на GitHub!**
 
 ---
 
 ## 🛠 Технический арсенал / Tech Stack
 
-| 📂 Category | 🚀 Technologies |
+<details open>
+<summary><b>Посмотреть инструменты</b></summary>
+<br>
+
+| Категория | Технологии |
 | :--- | :--- |
-| **Automation** | **PowerShell (Middle)**, **Bash, Python, C#** |
-| **DevOps** | **Docker, CI/CD, Test Automation** |
-| **Infrastructure** | **Active Directory, Red OS**, **Synology DSM** |
-| **Integration** | **REST API, JSON, OAuth** |
+| **Automation** | `PowerShell (Middle)`, `Bash`, `Python`, `C#` |
+| **DevOps** | `Docker`, `CI/CD`, `Test Automation` |
+| **Infrastructure** | `Active Directory`, `Red OS`, `Synology DSM` |
+| **Integration** | `REST API`, `JSON`, `OAuth` |
+
+</details>
 
 ---
 
-## 🌟 Поддержка и вклад / Support & Contribution
+## 🤝 Давайте общаться / Contact & Support
 
-Я открыт для интересных проектов и предложений по улучшению моих инструментов. 
-*   **Нравятся мои проекты?** Поставьте ⭐ в репозиториях — это лучшая мотивация!
-*   **Нашли баг?** Создайте Issue, и мы сделаем код лучше вместе.
+Я всегда открыт для обмена опытом и интересных предложений. Если мои инструменты сэкономили вам время — это лучшая награда.
 
----
-
-## 📊 Подтверждение навыков / Skills Verification
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b27bf8a4-6f7b-412a-ab07-92b2ed68ced3" width="700" alt="PowerShell Middle Skill">
-  <br>
-  <i><b>Middle Level confirmed in PowerShell</b></i>
-</p>
-
----
-
-## 📫 Контакты / Contact Me
-
-*   **Telegram:** [@Cuth3r3](https://t.me/Cuth3r3)
-*   **Email:** m.chuvilev.adm1n@yandex.ru
-*   **Habr Career:** [Profile](https://career.habr.com/chuvilev_mm)
+*   **Telegram:** [@Cuth3r3](https://t.me/Cuth3r3) — здесь я чаще всего.
+*   **Habr Career:** [Мой профиль](https://career.habr.com/chuvilev_mm)
+*   **Email:** `m.chuvilev.adm1n@yandex.ru`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats">
 </div>
