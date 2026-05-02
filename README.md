@@ -11,14 +11,14 @@
 
 ---
 
-**«Если задача повторяется больше двух раз — она должна быть автоматизирована»**
+**«Если задача повторяется больше двух раз — она должна быть автоматизирована»**  
 *«If a task is repeated more than twice, it must be automated»*
 
 </div>
 
 ## 📖 Обо мне / About Me
 
-Я превращаю сложные ручные процессы в надежные автоматизированные системы. Специализируюсь на создании инструментов для прозрачного управления IT-инфраструктурой.
+Я превращаю сложные ручные процессы в надежные автоматизированные системы. Специализируюсь на создании инструментов для прозрачного управления IT-инфраструктурой. 
 
 I transform complex manual processes into reliable automated systems. Specialized in creating tools for transparent IT infrastructure management.
 
@@ -26,13 +26,14 @@ I transform complex manual processes into reliable automated systems. Specialize
 
 ## 🏗️ Ключевые проекты / Featured Projects
 
-### 🛡️ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)**
-**Enterprise-level Synology NAS monitoring.**
+### 🛡️ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)** 
+**Enterprise-level Synology NAS monitoring.**  
 *   **Tech:** PowerShell (Async Runspaces), WinAPI, REST API.
 *   **Feature:** Глубокий мониторинг RAID и S.M.A.R.T. через API.
+*   **Status:** ⭐ **If you use it, please give it a star to support development!**
 
-### 📡 **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)**
-**Mesh network monitoring system (TP-Link Deco).**
+### 📡 **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)** 
+**Mesh network monitoring system (TP-Link Deco).**  
 *   **Tech:** C#, WPF, Network Telemetry.
 *   **Feature:** Реальный контроль состояния узлов сети.
 
@@ -49,12 +50,20 @@ I transform complex manual processes into reliable automated systems. Specialize
 
 ---
 
+## 🌟 Поддержка и вклад / Support & Contribution
+
+Я открыт для интересных проектов и предложений по улучшению моих инструментов. 
+*   **Нравятся мои проекты?** Поставьте ⭐ в репозиториях — это лучшая мотивация!
+*   **Нашли баг?** Создайте Issue, и мы сделаем код лучше вместе.
+
+---
+
 ## 📊 Подтверждение навыков / Skills Verification
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b27bf8a4-6f7b-412a-ab07-92b2ed68ced3" width="700" alt="PowerShell Middle Skill">
   <br>
-  <i><b>Middle Level confirmed in PowerShell**</i>
+  <i><b>Middle Level confirmed in PowerShell</b></i>
 </p>
 
 ---
