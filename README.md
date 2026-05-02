@@ -1,4 +1,4 @@
-# Чувилев М.М. | MChuvilevM 👋
+<img width="865" height="831" alt="middlePS" src="https://github.com/user-attachments/assets/bb310e78-b4ff-47ee-b1b5-19dbd74e14de" /># Чувилев М.М. | MChuvilevM 👋
 
 [RU] Системный инженер и DevOps-разработчик. Специализируюсь на автоматизации инфраструктуры и создании инструментов мониторинга.
 [EN] System Engineer & DevOps Developer. Specialized in infrastructure automation and building monitoring tools.
@@ -32,7 +32,7 @@ I transform complex manual processes into reliable automated systems. My primary
 ## 📊 Skills Verification / Подтвержденная квалификация
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MChuvilevM/MChuvilevM/main/middlePS.png" width="600" alt="PowerShell Middle Skill">
+  <img src="https://github.com/user-attachments/assets/b27bf8a4-6f7b-412a-ab07-92b2ed68ced3" width="600" alt="PowerShell Middle Skill">
   <br>
   <i>Middle level confirmed in PowerShell / Подтвержденный уровень Middle в PowerShell</i>
 </p>
