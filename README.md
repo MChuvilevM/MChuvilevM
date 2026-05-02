@@ -1,4 +1,4 @@
-<img width="865" height="831" alt="middlePS" src="https://github.com/user-attachments/assets/bb310e78-b4ff-47ee-b1b5-19dbd74e14de" /># Чувилев М.М. | MChuvilevM 👋
+Чувилев М.М. | MChuvilevM 👋
 
 [RU] Системный инженер и DevOps-разработчик. Специализируюсь на автоматизации инфраструктуры и создании инструментов мониторинга.
 [EN] System Engineer & DevOps Developer. Specialized in infrastructure automation and building monitoring tools.
