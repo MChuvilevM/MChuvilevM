@@ -11,22 +11,22 @@
 
 ---
 
-> *«ᛐ Автоматизация — это не просто работа, это способ освободить время для созидания. Если процесс повторяется дважды, я пишу скрипт. ᛐ»*
+> *«ᚱ Автоматизация — это не просто работа, это способ освободить время для созидания. Если процесс повторяется дважды, я пишу скрипт. ᚱ»*
 
 </div>
 
-## ᚨ Обо мне / About Me
+## ᛟ Обо мне / About Me
 
 Я специализируюсь на создании инструментов мониторинга и автоматизации. Мой подход — это прозрачность системных процессов и качественный код.
 
-* ᚦ **Verified Skill:** PowerShell Middle Level по версии Habr Career.
-* ᚲ **Core Stack:** Глубокая экспертиза в PowerShell 5.1, работе с системным API и REST.
-* ᚱ **Focus:** Высокопроизводительные скрипты и автоматизация инфраструктуры Synology и TP-Link.
+* ᛉ **Verified Skill:** PowerShell Middle Level по версии Habr Career.
+* ᚱ **Core Stack:** Глубокая экспертиза в PowerShell 5.1, работе с системным API и REST.
+* ᛗ **Focus:** Высокопроизводительные скрипты и автоматизация инфраструктуры Synology и TP-Link.
 
 <div align="center">
   <img width="600" alt="Habr Career PowerShell Middle Certificate" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
   <br>
-  <em>ᚦ Официальное подтверждение квалификации PowerShell на грейд Middle от Хабр Карьеры</em>
+  <em>ᛟ Официальное подтверждение квалификации PowerShell на грейд Middle от Хабр Карьеры</em>
 </div>
 
 ---
@@ -35,22 +35,23 @@
 
 ### ᛉ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)** **Мониторинг Synology NAS корпоративного уровня.**
 * **Стек:** PowerShell 5.1 (Async Runspaces), WinAPI, REST API.
-* ᛐ **Поддержи проект звездой — это помогает продвижению качественного Open Source!**
+* ᛗ **Поддержи проект ⭐ — это помогает продвижению качественного Open Source!**
 
-### ᛗ **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)** **Система контроля Mesh-сетей (TP-Link Deco).**
-* **Стек:** PowerShell 5.1, WPF, Network Telemetry.
-* ᛐ **Буду признателен за вашу поддержку в виде звезды на GitHub!**
+### ᛟ **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)** **Система контроля Mesh-сетей (TP-Link Deco).**
+* **Стек:** PowerShell, WPF, Network Telemetry.
+* ᛗ **Буду признателен за вашу поддержку в виде ⭐ на GitHub!**
 
 ---
 
-## ᚲ Давайте общаться / Contact & Support
+## ᛗ Давайте общаться / Contact & Support
 
 Я всегда открыт для обмена опытом и интересных профессиональных задач.
 
-* [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cuth3r3)
-* [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
-* [![Habr](https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm)
-* [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cuth3r3) [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm) [![Habr](https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm) [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
+
+</div>
 
 <div align="center">
   <br>
