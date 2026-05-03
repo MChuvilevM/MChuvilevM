@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я Чувилев М.М.
+# ᛟ Привет, я Чувилев М.М. ᛟ
 ### **System Engineer | DevOps & Automation Enthusiast**
 
 [![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-336791?style=flat-square&logo=powershell&logoColor=white)](https://github.com/MChuvilevM)
@@ -11,17 +11,17 @@
 
 ---
 
-> *«Автоматизация — это не просто работа, это способ освободить время для созидания. Если процесс повторяется дважды, я пишу скрипт.»*
+> *«ᛐ Автоматизация — это не просто работа, это способ освободить время для созидания. Если процесс повторяется дважды, я пишу скрипт. ᛐ»*
 
 </div>
 
-## 👨‍💻 Обо мне / About Me
+## ᚨ Обо мне / About Me
 
 Я специализируюсь на создании инструментов мониторинга и автоматизации. Мой подход — это прозрачность системных процессов и качественный код.
 
-*   🏆 **Verified Skill:** PowerShell Middle Level по версии Habr Career.
-*   🛠 **Core Stack:** Глубокая экспертиза в PowerShell 5.1, работе с системным API и REST.
-*   🔍 **Focus:** Высокопроизводительные скрипты и автоматизация инфраструктуры Synology и TP-Link.
+* ᚦ **Verified Skill:** PowerShell Middle Level по версии Habr Career.
+* ᚲ **Core Stack:** Глубокая экспертиза в PowerShell 5.1, работе с системным API и REST.
+* ᚱ **Focus:** Высокопроизводительные скрипты и автоматизация инфраструктуры Synology и TP-Link.
 
 <div align="center">
   <img width="600" alt="Habr Career PowerShell Middle Certificate" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
@@ -29,27 +29,26 @@
 
 ---
 
-## 🚀 Ключевые проекты / Featured Projects
+## ᚱ Ключевые проекты / Featured Projects
 
-### 🛡️ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)** 
-**Мониторинг Synology NAS корпоративного уровня.**
-*   **Стек:** PowerShell 5.1 (Async Runspaces), WinAPI, REST API.
-*   ⭐ **Поддержи проект звездой — это помогает продвижению качественного Open Source!**
+### ᛉ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)** **Мониторинг Synology NAS корпоративного уровня.**
+* **Стек:** PowerShell 5.1 (Async Runspaces), WinAPI, REST API.
+* ᛐ **Поддержи проект звездой — это помогает продвижению качественного Open Source!**
 
-### 📡 **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)** 
-**Система контроля Mesh-сетей (TP-Link Deco).**
-*   **Стек:** PowerShell, WPF, Network Telemetry.
-*   ⭐ **Буду признателен за вашу поддержку в виде звезды на GitHub!**
+### ᛗ **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)** **Система контроля Mesh-сетей (TP-Link Deco).**
+* **Стек:** PowerShell, WPF, Network Telemetry.
+* ᛐ **Буду признателен за вашу поддержку в виде звезды на GitHub!**
 
 ---
 
-## 🤝 Давайте общаться / Contact & Support
+## ᚲ Давайте общаться / Contact & Support
 
 Я всегда открыт для обмена опытом и интересных профессиональных задач.
 
-*   **Telegram:** [@Cuth3r3](https://t.me/Cuth3r3) — здесь я чаще всего.
-*   **Habr Career:** [Чувилев М.М.](https://career.habr.com/chuvilev_mm).
-*   **Email:** `m.chuvilev.adm1n@yandex.ru`.
+* [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cuth3r3)
+* [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
+* ᚦ **Habr Career:** [Чувилев М.М.](https://career.habr.com/chuvilev_mm).
+* ᚲ **Email:** `m.chuvilev.adm1n@yandex.ru`.
 
 <div align="center">
   <br>
