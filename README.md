@@ -25,6 +25,8 @@
 
 <div align="center">
   <img width="600" alt="Habr Career PowerShell Middle Certificate" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
+  <br>
+  <em>ᚦ Официальное подтверждение квалификации PowerShell на грейд Middle от Хабр Карьеры</em>
 </div>
 
 ---
@@ -36,7 +38,7 @@
 * ᛐ **Поддержи проект звездой — это помогает продвижению качественного Open Source!**
 
 ### ᛗ **[DecoSentryPro](https://github.com/MChuvilevM/DecoSentryPro)** **Система контроля Mesh-сетей (TP-Link Deco).**
-* **Стек:** PowerShell, WPF, Network Telemetry.
+* **Стек:** PowerShell 5.1, WPF, Network Telemetry.
 * ᛐ **Буду признателен за вашу поддержку в виде звезды на GitHub!**
 
 ---
@@ -47,8 +49,8 @@
 
 * [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cuth3r3)
 * [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
-* ᚦ **Habr Career:** [Чувилев М.М.](https://career.habr.com/chuvilev_mm).
-* ᚲ **Email:** `m.chuvilev.adm1n@yandex.ru`.
+* [![Habr](https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm)
+* [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 
 <div align="center">
   <br>
