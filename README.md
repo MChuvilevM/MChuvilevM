@@ -19,9 +19,6 @@
 
 Я специализируюсь на создании инструментов мониторинга и автоматизации. Мой подход — это прозрачность системных процессов и качественный код.
 
-* ᛉ **Verified Skill:** PowerShell Middle Level по версии Habr Career.
-* ᚱ **Core Stack:** Глубокая экспертиза в PowerShell 5.1, работе с системным API и REST.
-* ᛗ **Focus:** Высокопроизводительные скрипты и автоматизация инфраструктуры Synology и TP-Link.
 
 <div align="center">
   <img width="600" alt="Habr Career PowerShell Middle Certificate" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
