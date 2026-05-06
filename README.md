@@ -47,7 +47,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cuth3r3) 
 [![Habr](https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm) 
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
-
+[![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
 </div>
 
 <div align="center">
