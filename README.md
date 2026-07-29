@@ -46,9 +46,10 @@
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
 
-<br>
+<div align="center">
   <br>
-[![MChuvilevM's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MChuvilevM&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MChuvilevM)
+  <br>
+  <p><a href="https://github.com/MChuvilevM"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MChuvilevM&theme=tokyo-night&hide_border=true&area=true" alt="MChuvilevM's Contribution Graph" /></a></p>
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
