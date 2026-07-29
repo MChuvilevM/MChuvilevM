@@ -15,7 +15,6 @@
 
 ## ᛟ Квалификация / Expertise
 
-Специализируюсь на создании отказоустойчивых решений: от системного мониторинга на PowerShell до высоконагруженных микросервисов на .NET 9. Проектирую инструменты по принципам Clean Architecture.
 
 <div align="center">
   <img width="600" alt="Habr Career PowerShell Middle Certificate" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
@@ -27,19 +26,14 @@
 
 ## ᚱ Ключевые проекты / Featured Projects
 
-### ᛟ **[SystemObserverService](https://github.com/MChuvilevM/SystemObserverService)**
-**Enterprise-решение на .NET 9 для мониторинга критических систем.**
-*   **Архитектура:** Clean Architecture, Dependency Injection.
-*   **Особенности:** Асинхронный Worker Service, интеграция Prometheus, глубокий контроль ресурсов (CPU, RAM, Processes).
-
-### ᛟ **[PyInfraGuard](https://github.com/MChuvilevM/PyInfraGuard)**
-**Асинхронный демон мониторинга маркетплейс-API.**
-*   **Назначение:** Высоконагруженная работа с Wildberries API, контроль лимитов, мгновенный алертинг.
-*   **Технологии:** Python (AsyncIO).
+### ᛟ **[sysmon-web-panel](https://github.com/MChuvilevM/sysmon-web-panel)**
+**Веб-панель мониторинга системных метрик и инфраструктуры.**
 
 ### ᛉ **[DecoSentryPro v4.0](https://github.com/MChuvilevM/DecoSentryPro)**
 **Система контроля TP-Link Deco Mesh сетей.**
-*   **Особенности:** PowerShell, WPF GUI, Real-time telemetry.
+
+### ᛟ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)**
+**Утилита для управления корпоративными Synology NAS системами.**
 
 ---
 
