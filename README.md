@@ -48,7 +48,7 @@
 
 <br>
   <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MChuvilevM&theme=onedark&no-bg=true&no-frame=true&row=1&column=4" alt="Trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MChuvilevM&theme=onedark&no-bg=true&no-frame=true&row=1&column=4" alt="Trophies" />
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
