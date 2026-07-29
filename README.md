@@ -47,7 +47,7 @@
 [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats">
+  <[![MChuvilevM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://github.com/MChuvilevM)>
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
