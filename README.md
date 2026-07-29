@@ -47,7 +47,9 @@
 [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
 
   <br>
-[![MChuvilevM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://github.com/MChuvilevM)>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MChuvilevM&theme=onedark&no-bg=true&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <br>
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
