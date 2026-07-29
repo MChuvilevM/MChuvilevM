@@ -46,10 +46,9 @@
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
 
+<br>
   <br>
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MChuvilevM&theme=onedark&no-bg=true&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MChuvilevM&theme=onedark&no-bg=true&no-frame=true&row=1&column=4" alt="Trophies" /></a>
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
