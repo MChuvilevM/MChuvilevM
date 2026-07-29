@@ -48,7 +48,7 @@
 
 <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=MChuvilevM&theme=onedark&no-bg=true&no-frame=true&row=1&column=4" alt="Trophies" />
+[![MChuvilevM's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MChuvilevM&theme=tokyo-night&hide_border=true&area=true)]({https://github.com/MChuvilevM})
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
