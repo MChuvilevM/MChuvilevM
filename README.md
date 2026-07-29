@@ -49,7 +49,7 @@
 <div align="center">
   <br>
   <br>
-  <p><a href="https://github.com/MChuvilevM"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MChuvilevM&theme=tokyo-night&hide_border=true&area=true" alt="MChuvilevM's Contribution Graph" /></a></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a>
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
