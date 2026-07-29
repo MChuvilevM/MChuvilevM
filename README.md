@@ -46,10 +46,9 @@
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
 
-<div align="center">
+<br>
   <br>
-  <br>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a></p>
+  <a href="https://github.com/MChuvilevM"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a>
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
