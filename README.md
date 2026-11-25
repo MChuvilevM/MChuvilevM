@@ -1,10 +1,11 @@
 <div align="center">
 
-# ᛟ MChuvilevM | System Engineer ᛟ
-### **Infrastructure Automation & Enterprise Development**
+# ᛟ MChuvilevM | System Administrator ᛟ
+### **Infrastructure Support, Automation & 1C Development**
 
 [![Habr Middle](https://img.shields.io/badge/Habr_Career-Middle_PowerShell-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm)
 [![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-336791?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/MChuvilevM)
+[![1C:Enterprise 8.3](https://img.shields.io/badge/1С:Предприятие-8.3_BSL-F5C400?style=for-the-badge&logoColor=black)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
 [![GitHub](https://img.shields.io/badge/GitHub-MChuvilevM-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MChuvilevM)
 
 ---
@@ -26,8 +27,8 @@
 
 ## ᚱ Ключевые проекты / Featured Projects
 
-### ᛟ **[sysmon-web-panel](https://github.com/MChuvilevM/sysmon-web-panel)**
-**Веб-панель мониторинга системных метрик и инфраструктуры.**
+### ᛟ **[1C-chestny-znak-warehouse](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)**
+**Учёт маркированного товара и склада на 1С:Предприятие 8.3 (Честный ЗНАК, DataMatrix, регистры, СКД).**
 
 ### ᛉ **[DecoSentryPro v4.0](https://github.com/MChuvilevM/DecoSentryPro)**
 **Система контроля TP-Link Deco Mesh сетей.**
@@ -41,7 +42,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cuth3r3) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kingofwands) 
 [![Habr](https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm) 
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 [![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
