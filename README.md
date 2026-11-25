@@ -40,10 +40,9 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kingofwands) 
-[![Habr](https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kingofwands)
+[![hh.ru](https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logo=hh&logoColor=white)](https://hh.ru/resume/5739ae64ff11665edc0039ed1f516e44503953?hhtmFrom=profile)
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
-[![Kwork](https://img.shields.io/badge/Kwork-FF6600?style=for-the-badge&logo=kwork&logoColor=white)](https://kwork.ru/user/mchuvilevm)
 
 <br>
   <br>
