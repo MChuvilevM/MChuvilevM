@@ -3,10 +3,9 @@
 # ᛟ MChuvilevM | System Administrator ᛟ
 ### **Поддержка инфраструктуры, автоматизация и разработка на 1С**
 
-[![Habr Middle](https://img.shields.io/badge/Хабр_Карьера-Middle_PowerShell-808080?style=plastic&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm)
+[![GitHub](https://img.shields.io/badge/GitHub-MChuvilevM-black?style=plastic&logo=github&logoColor=white)](https://github.com/MChuvilevM)
 [![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-336791?style=plastic&logo=powershell&logoColor=white)](https://github.com/MChuvilevM)
-[![1C:Enterprise 8.3](https://shields.io)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
-[![SQL Middle](https://shields.io)](https://github.com)
+[![1C:Enterprise 8.3](https://img.shields.io/badge/1С:Предприятие-8.3_BSL-FFCC00?style=plastic&labelColor=E30613&logoColor=white)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
 [![REST API](https://img.shields.io/badge/REST_API-JSON_%2F_HTTP-009688?style=plastic&logo=fastapi&logoColor=white)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
 [![GitHub](https://img.shields.io/badge/GitHub-MChuvilevM-black?style=plastic&logo=github&logoColor=white)](https://github.com/MChuvilevM)
 
