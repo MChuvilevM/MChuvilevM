@@ -21,7 +21,7 @@
 | **SQL** | Теория и практика | `Middle` | Минцифры России (hh.ru) | 28.11.2027 |
 | **PowerShell** | Теория и практика | `Middle` | Хабр Карьера | Бессрочно |
 
-> ᛉ *Оригиналы сертификатов и отчёты об оценке доступны в репозитории: **[![Сертификаты и отчёты](https://shields.io)](https://github.com/MChuvilevM/certificates)***
+> ᛉ Оригиналы сертификатов и отчёты об оценке: [![GitHub Certificates](https://shields.io)](https://github.com/MChuvilevM/certificates)
 
 
 ---
