@@ -15,22 +15,14 @@
 
 ## ᛟ Квалификация
 
-<table>
-  <tr>
-    <td align="center" width="58%">
-      <img width="100%" alt="Сертификат Хабр Карьеры PowerShell Middle" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
-      <br>
-      <em>ᛟ Подтверждённый грейд Middle по PowerShell на Хабр Карьере</em>
-    </td>
-    <td align="center" width="42%">
-      <a href="https://github.com">
-        <img width="85%" alt="Сертификат Минцифры России: SQL Middle" src="https://github.com/user-attachments/assets/78f1b57d-f9e0-4e5b-8b1f-e669e5729da6" />
-      </a>
-      <br>
-      <em>ᛟ Сертификат Минцифры России: SQL Middle (Теория и практика, hh.ru)</em>
-    </td>
-  </tr>
-</table>
+| Компетенция | Формат | Уровень | Платформа / Ведомство | Действителен до |
+| :--- | :--- | :--- | :--- | :--- |
+| **Git** | Теория | `Advanced` | Минцифры России (hh.ru) | 28.11.2027 |
+| **SQL** | Теория и практика | `Middle` | Минцифры России (hh.ru) | 28.11.2027 |
+| **PowerShell** | Теория и практика | `Middle` | Хабр Карьера | Бессрочно |
+
+> ᛉ *Оригиналы сертификатов и отчёты об оценке доступны в репозитории: **[MChuvilevM/certificates](https://github.com)***
+
 
 ---
 
