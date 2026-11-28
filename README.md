@@ -22,7 +22,8 @@
   <em>ᛟ Подтверждённый грейд Middle по PowerShell на Хабр Карьере</em>
 </div>
 
-- 📜 **[Сертификат Минцифры России: SQL (Средний уровень — Теория и Практика)]([SQL.pdf](https://github.com/user-attachments/files/35546232/SQL.pdf)
+- 📜 **[Сертификат Минцифры России: SQL (Средний уровень — Теория и Практика)]([<img width="555" height="805" alt="firefox_Wy0TPBPTZ6" src="https://github.com/user-attachments/assets/78f1b57d-f9e0-4e5b-8b1f-e669e5729da6" />
+)
 )** — официальное подтверждение компетенций на hh.ru (2026)
 
 ---
