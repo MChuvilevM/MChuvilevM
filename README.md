@@ -1,6 +1,6 @@
 <div align="center">
 
-# ᛟ MChuvilevM | System Administrator ᛟ
+# ᛟ MChuvilevM | 1C Developer & System Administrator ᛟ
 ### **Поддержка инфраструктуры, автоматизация и разработка на 1С**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MChuvilevM-black?style=plastic&logo=github&logoColor=white)](https://github.com/MChuvilevM)
