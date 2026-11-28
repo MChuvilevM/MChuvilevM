@@ -47,11 +47,12 @@
 [![hh.ru](https://img.shields.io/badge/hh.ru-Резюме-D6001C?style=for-the-badge&logo=hh&logoColor=white)](https://hh.ru/resume/5739ae64ff11665edc0039ed1f516e44503953?hhtmFrom=profile)
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 
-<br>
-<br>
-<a href="https://github.com/MChuvilevM"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a>
-<br>
-<br>
-<i>«Если задачу приходится делать руками дважды — пора писать скрипт»</i> ᛉ
+<div align="center">
+
+![Profile Details](./profile-summary-card-output/tokyonight/0-profile-details.svg)
+
+![Repos per Language](./profile-summary-card-output/tokyonight/1-repos-per-language.svg) ![Most Commit Language](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+
+![Stats](./profile-summary-card-output/tokyonight/3-stats.svg) ![Productive Time](./profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 </div>
