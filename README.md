@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ᛟ MChuvilevM | System Administrator ᛟ
@@ -20,6 +21,8 @@
   <br>
   <em>ᛟ Подтверждённый грейд Middle по PowerShell на Хабр Карьере</em>
 </div>
+
+- 📜 **[Сертификат Минцифры России: SQL (Средний уровень — Теория и Практика)](https://github.com/user-attachments/files/35546197/SQL.pdf)** — официальное подтверждение компетенций на hh.ru (2026)
 
 ---
 
