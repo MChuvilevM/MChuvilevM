@@ -7,7 +7,7 @@
 [![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-336791?style=plastic&logo=powershell&logoColor=white)](https://github.com/MChuvilevM)
 [![1C:Enterprise 8.3](https://img.shields.io/badge/1С:Предприятие-8.3_BSL-FFCC00?style=plastic&labelColor=E30613&logoColor=white)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
 [![REST API](https://img.shields.io/badge/REST_API-JSON_%2F_HTTP-009688?style=plastic&logo=fastapi&logoColor=white)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
-[![GitHub](https://img.shields.io/badge/GitHub-MChuvilevM-black?style=plastic&logo=github&
+[![GitHub](https://img.shields.io/badge/GitHub-MChuvilevM-black?style=plastic&logo=github&logoColor=white)](https://github.com/MChuvilevM)
 
 </div>
 
