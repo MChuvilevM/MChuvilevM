@@ -29,13 +29,13 @@
 ## ᚱ Ключевые проекты
 
 ### ᛟ **[1C-chestny-znak-warehouse](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)**
-**Складской учёт маркировки на 1С 8.3: «Честный ЗНАК», GS1 DataMatrix, регистры, отчёты СКД и обмен по REST API.**
+**Складской учёт маркировки на 1С 8.3: «Честный ЗНАК», GS1 DataMatrix, регистры, отчёты СКД и обмен по REST API**
 
 ### ᛉ **[DecoSentryPro v4.0](https://github.com/MChuvilevM/DecoSentryPro)**
-**Мониторинг и диагностика mesh-сетей TP-Link Deco (опрос узлов, контроль состояния и уведомления).**
+**Мониторинг и диагностика mesh-сетей TP-Link Deco (опрос узлов, контроль состояния и уведомления)**
 
 ### ᛟ **[SynoGuard-PS](https://github.com/MChuvilevM/SynoGuard-PS)**
-**Утилита на PowerShell 5.1 для контроля корпоративных Synology NAS: SNMP-опрос, S.M.A.R.T.-диски и здоровье массивов.**
+**Утилита на PowerShell 5.1 для контроля корпоративных Synology NAS: SNMP-опрос, S.M.A.R.T.-диски и здоровье массивов**
 
 ---
 
@@ -52,6 +52,6 @@
 <a href="https://github.com/MChuvilevM"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a>
 <br>
 <br>
-<i>«Если задачу приходится делать руками дважды — пора писать скрипт.»</i> ᛉ
+<i>«Если задачу приходится делать руками дважды — пора писать скрипт»</i> ᛉ
 
 </div>
