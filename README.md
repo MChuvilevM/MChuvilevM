@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ᛟ MChuvilevM | System Administrator ᛟ
@@ -6,7 +5,8 @@
 
 [![Habr Middle](https://img.shields.io/badge/Хабр_Карьера-Middle_PowerShell-808080?style=plastic&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm)
 [![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-336791?style=plastic&logo=powershell&logoColor=white)](https://github.com/MChuvilevM)
-[![1C:Enterprise 8.3](https://img.shields.io/badge/1С:Предприятие-8.3_BSL-FFCC00?style=plastic&labelColor=E30613&logoColor=white)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
+[![1C:Enterprise 8.3](https://shields.io)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
+[![SQL Middle](https://shields.io)](https://github.com)
 [![REST API](https://img.shields.io/badge/REST_API-JSON_%2F_HTTP-009688?style=plastic&logo=fastapi&logoColor=white)](https://github.com/MChuvilevM/1C-chestny-znak-warehouse)
 [![GitHub](https://img.shields.io/badge/GitHub-MChuvilevM-black?style=plastic&logo=github&logoColor=white)](https://github.com/MChuvilevM)
 
@@ -16,15 +16,22 @@
 
 ## ᛟ Квалификация
 
-<div align="center">
-  <img width="600" alt="Сертификат Хабр Карьеры PowerShell Middle" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
-  <br>
-  <em>ᛟ Подтверждённый грейд Middle по PowerShell на Хабр Карьере</em>
-</div>
-
-- 📜 **[Сертификат Минцифры России: SQL (Средний уровень — Теория и Практика)]([<img width="555" height="805" alt="firefox_Wy0TPBPTZ6" src="https://github.com/user-attachments/assets/78f1b57d-f9e0-4e5b-8b1f-e669e5729da6" />
-)
-)** — официальное подтверждение компетенций на hh.ru (2026)
+<table>
+  <tr>
+    <td align="center" width="58%">
+      <img width="100%" alt="Сертификат Хабр Карьеры PowerShell Middle" src="https://github.com/user-attachments/assets/e4b9f5d2-d2d9-4424-920c-570c2e6ccb2f" />
+      <br>
+      <em>ᛟ Подтверждённый грейд Middle по PowerShell на Хабр Карьере</em>
+    </td>
+    <td align="center" width="42%">
+      <a href="https://github.com">
+        <img width="85%" alt="Сертификат Минцифры России: SQL Middle" src="https://github.com/user-attachments/assets/78f1b57d-f9e0-4e5b-8b1f-e669e5729da6" />
+      </a>
+      <br>
+      <em>ᛟ Сертификат Минцифры России: SQL Middle (Теория и практика, hh.ru)</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,9 +57,10 @@
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 
 <br>
-  <br>
-  <a href="https://github.com/MChuvilevM"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a>
-  <br>
-  <br>
-  <i>«Если задачу приходится делать руками дважды — пора писать скрипт.»</i> ᛉ
+<br>
+<a href="https://github.com/MChuvilevM"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a>
+<br>
+<br>
+<i>«Если задачу приходится делать руками дважды — пора писать скрипт.»</i> ᛉ
+
 </div>
