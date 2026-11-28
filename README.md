@@ -47,12 +47,11 @@
 [![hh.ru](https://img.shields.io/badge/hh.ru-Резюме-D6001C?style=for-the-badge&logo=hh&logoColor=white)](https://hh.ru/resume/5739ae64ff11665edc0039ed1f516e44503953?hhtmFrom=profile)
 [![Email](https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=yandex&logoColor=white)](mailto:m.chuvilev.adm1n@yandex.ru)
 
-<div align="center">
-
-![Profile Details](https://vercel.app)
-
-![Repos per Language](https://vercel.app) ![Most Commit Language](https://vercel.app)
-
-![Stats](https://vercel.app) ![Productive Time](https://vercel.app)
+<br>
+<br>
+<a href="https://github.com/MChuvilevM"><img src="https://github-readme-stats.vercel.app/api?username=MChuvilevM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="MChuvilevM's GitHub stats" /></a>
+<br>
+<br>
+<i>«Если задачу приходится делать руками дважды — пора писать скрипт»</i> ᛉ
 
 </div>
